@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Romaji</string>
+    <string name="title">Korean to romanization</string>
+    <string name="korean">Korean</string>
+    <string name="romanized">Romanized</string>
+    <string name="convert">Convert</string>
+    <string name="copy">Copy</string>
+    <string name="copied">Copied</string>
+    <string name="speak">Speak</string>
+    <string name="korean_voice_missing">Korean voice not installed</string>
+    <string name="install">Install</string>
+    <string name="speech_unavailable">Speech is not available on this device</string>
+</resources>
