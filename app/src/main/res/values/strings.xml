@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Romaji</string>
-    <string name="title">Korean to romanization</string>
+    <string name="title">Korean to romaji converter 🦀</string>
     <string name="korean">Korean</string>
     <string name="romanized">Romanized</string>
     <string name="convert">Convert</string>
