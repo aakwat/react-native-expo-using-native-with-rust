@@ -1,0 +1,3 @@
+# Android 15+ devices use 16 KB pages; NDK r27 still links for 4 KB unless told.
+[target.'cfg(target_os = "android")']
+rustflags = ["-C", "link-arg=-Wl,-z,max-page-size=16384"]
